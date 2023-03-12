@@ -1,0 +1,87 @@
+- id: 20095
+  text: Limit Form
+- id: 20096
+  text: Limit
+- id: 20097
+  text: Limit Form
+- id: 20098
+  text: >-
+    Access Limit Form alone with the help
+
+    of friends faraway.
+- id: 20107
+  text: Auto Limit
+- id: 20108
+  text: >-
+    Automatically sets the Reaction
+
+    Command to Limit in a pinch, if
+
+    Limit Form is usable.
+- id: 20110
+  text: >-
+    A Limit Command that unleashes an attack
+
+    on an enemy as you pass by. Press {:icon dynamic-triangle} at
+
+    the right tempo for a combo. {:color #F0F00080}MP Cost:{:width 100} 60{:reset}
+- id: 20112
+  text: >-
+    A Limit Command that unleashes
+
+    a powerful combo attack. Press {:icon dynamic-triangle} for
+
+    a consecutive combo. {:color #F0F00080}MP Cost:{:width 100} 75{:reset}
+- id: 20114
+  text: >-
+    A Limit Command that allows you to throw
+
+    the Keyblade at the target.
+
+    Press {:icon dynamic-triangle} for a combo. {:color #F0F00080}MP Cost:{:width 100} 65{:reset}
+- id: 20116
+  text: >-
+    A Limit Command that can be unleashed by
+
+    pressing {:icon dynamic-triangle} after an aerial combo.
+
+    {:color #F0F00080}MP Cost:{:width 100} 80{:reset}
+- id: 20123
+  text: Limit LV
+- id: 20124
+  text: >-
+    For each limit command finishing move
+
+    unleashed in Limit Form, 1 point of
+
+    experience is gained.
+- id: 20126
+  text: >-
+    The Form gauge for Limit Form.
+
+    The longer the gauge, the longer
+
+    the time spent transformed.
+- id: 20127
+  text: Limit
+- id: 20128
+  text: >-
+    Limit Form Status.
+
+    A form specializing in Promise attacks.
+
+    {:color #F0F00080}Cost: 4{:reset}
+- id: 20129
+  text: >-
+    Limit Form Level. Time spent
+
+    transformed becomes longer, and
+
+    Abilities become stronger by leveling up.
+- id: 20235
+  text: Limit
+- id: 20330
+  text: >-
+    Restores Roxas's HP when
+
+    a Limit Command lands.
