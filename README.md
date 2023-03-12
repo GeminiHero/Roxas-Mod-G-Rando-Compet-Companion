@@ -5,4 +5,4 @@ Designed for use with the OpenKH Mod Loader.
 
 ---
 
-A patch built specially for those who play KH2 Rando competitively! This reverses certain changes in the base Roxas Mod/Roxas Randomizer Fix, such as the symbols for Hollow Bastion and Simulated Twilight Town, as well as certain script changes (reverting "Promise Form" back to "Limit Form"). Comes pre-packaged with the Roxas Mod G: Medium Animations mod, for maximum Roxas flavor with none of the gameplay impact! Built to be tournament legal and streamlined as possible!
+A patch built specially for those who play KH2 Rando competitively! This reverses certain changes in the base Roxas Mod/Roxas Randomizer Fix, such as the symbols for Hollow Bastion and Simulated Twilight Town, as well as certain script changes (reverting "Promise Form" back to "Limit Form"). Built to be tournament legal and streamlined as possible!
