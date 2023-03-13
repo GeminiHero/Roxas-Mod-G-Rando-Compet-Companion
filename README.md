@@ -11,7 +11,7 @@ A patch built specially for those who play KH2 Rando competitively! This reverse
 
 Comes pre-packaged with the "Roxas Mod G Medium Animations" mod, so you'll be tournament legal right from the start! Place ABOVE all roxas mods and randomizer mods! 
 
-If you want to use even less of Roxas' animations to cut down on snapping, please consider stacking the "Roxas Mod G: Lite Animations" found here: 
+If you want to use even less of Roxas' animations to cut down on snapping, please consider stacking the "Roxas Mod G: Lite Animations" ontop, found here: 
 
 GeminiHero/Roxas-Mod-G-Lite-Animations
 
