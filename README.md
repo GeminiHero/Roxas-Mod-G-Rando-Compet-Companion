@@ -21,12 +21,12 @@ Napstio/Roxas-Mod-Sora-Animation-For-Speed-Run
 
 If you wish to use Roxas' full animation set from the base mod, but still want things like the new Kingdom Key to be seen over the randomizer mods, please use the "Roxas Mod Randomizer Fix" from Napstio, found here instead. PLEASE BE AWARE that this full moveset will not be legal in most tournaments right now, so make sure to ask your TO if you want to use this instead of the Compet Companion!
 
-Napstio/Roxas-Mod-Randomiser-Fix
+[Napstio/Roxas-Mod-Randomiser-Fix](https://github.com/Napstio/Roxas-Mod-Randomiser-Fix)
 
 ---
 ### IF YOU ARE USING A TRACKER
 
-Please feel free to download these custom images, which replace Sora with Roxas on the tracker and vice versa! NOTE: If you are instead usnig the "Roxas Mod Randomizer Fix" ( Napstio/Roxas-Mod-Randomiser-Fix ), make SURE you use the "New World Icons" version from this link, as that mod changes the world icons in the Garden of Assemblage!
+Please feel free to download these custom images, which replace Sora with Roxas on the tracker and vice versa! NOTE: If you are instead using the "Roxas Mod Randomizer Fix" ( Napstio/Roxas-Mod-Randomiser-Fix ), make SURE you use the "New World Icons" version from this link, as that mod changes the world icons in the Garden of Assemblage!
 
 https://drive.google.com/file/d/1ATosJn166BUa91-gnRVEzGTB9wFfC1I4/view?usp=sharing
 ---
