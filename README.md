@@ -28,7 +28,7 @@ If you wish to use Roxas' full animation set from the base mod, but still want t
 
 Please feel free to download these custom images, which replace Sora with Roxas on the tracker and vice versa! NOTE: If you are instead using the "Roxas Mod Randomizer Fix", make SURE you use the "New World Icons" version from this link, as that mod changes the world icons in the Garden of Assemblage!
 
-https://drive.google.com/file/d/1ATosJn166BUa91-gnRVEzGTB9wFfC1I4/view?usp=sharing
+[KH2Tracker Custom Images](https://drive.google.com/file/d/1ATosJn166BUa91-gnRVEzGTB9wFfC1I4/view?usp=sharing)
 ---
 
 Make sure to place "Roxas Mod G Rando Compet Companion" ABOVE "Roxas Mod 3.0" AND any randomizer seeds or mods.
