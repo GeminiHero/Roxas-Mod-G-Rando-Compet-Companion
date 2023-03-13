@@ -9,6 +9,20 @@ A patch built specially for those who play KH2 Rando competitively! This reverse
 
 ## **IMPORTANT!**
 
-Make sure to use this mod with either "Roxas Mod: Sora Moveset" from the official pack, or either the "Roxas Mod G Lite Animations" or "Roxas Mod G Medium Animations" from this modpack if you want to be legal for most tournaments! The base mod has some modified moves otherwise, and for logistical reasons this mod cannot overwrite those on its own!
+Comes pre-packaged with the "Roxas Mod G Medium Animations" mod, so you'll be tournament legal right from the start! Place ABOVE all roxas mods and randomizer mods! 
 
-Make sure to place this mod above "Roxas Mod 3.0" AND any randomizer seeds or mods.
+If you want to use even less of Roxas' animations to cut down on snapping, please consider stacking the "Roxas Mod G: Lite Animations" found here: 
+
+GeminiHero/Roxas-Mod-G-Lite-Animations
+
+or "Roxas Mod Sora Animations" found here:
+
+Napstio/Roxas-Mod-Sora-Animation-For-Speed-Run
+
+If you wish to use Roxas' full animation set from the base mod, but still want things like the new Kingdom Key to be seen over the randomizer mods, please use the "Roxas Mod Randomizer Fix" from Napstio, found here instead. PLEASE BE AWARE that this full moveset will not be legal in most tournaments right now, so make sure to ask your TO if you want to use this instead of the Compet Companion!
+
+Napstio/Roxas-Mod-Randomiser-Fix
+
+---
+
+Make sure to place "Roxas Mod G Rando Compet Companion" ABOVE "Roxas Mod 3.0" AND any randomizer seeds or mods.
