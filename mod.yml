@@ -1,6 +1,6 @@
 title: Roxas Mod G. Rando Compet Companion
-originalAuthor: GeminiHero
-description: A patch built specially for those who play KH2 Rando competitively! This reverses certain changes in the base Roxas Mod/Roxas Randomizer Fix, such as the symbols for Hollow Bastion and Simulated Twilight Town, as well as certain script changes (reverting 'Promise Form' back to 'Limit Form'). Pair with 'Roxas Mod G Lite Animations', 'Roxas Mod G Medium Animations' or 'Roxas Mod Sora Moveset' to be completely tournament legal! Place ABOVE all roxas mods and randomizer mods!
+originalAuthor: GeminiHero, Zurph
+description: A patch built specially for those who play KH2 Rando competitively! This reverses certain changes in the base Roxas Mod/Roxas Randomizer Fix, such as the symbols for Hollow Bastion and Simulated Twilight Town, as well as certain script changes (reverting 'Promise Form' back to 'Limit Form'). Comes pre-packaged with the "Roxas Mod G Medium Animations" mod, so you'll be tournament legal right from the start! Place ABOVE all roxas mods and randomizer mods!
 specifications: 0
 dependencies: 
 assets:
@@ -16,6 +16,222 @@ assets:
     source:
     - name: msg/jp/sys.yml
       language: text
+- name: obj\F_EX030.mset
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: obj\F_EX030.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\F_EX030_TT.mset
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: obj\F_EX030_TT.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\P_EX100.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\P_EX100.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\P_EX100_AL_CARPET.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\P_EX100_AL_CARPET.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\P_EX100_BTLF.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\P_EX100_BTLF.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\W_EX010.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010_AL_CARPET.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\W_EX010_AL_CARPET.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010_BTLF_L.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\W_EX010_BTLF_L.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010_BTLF_R.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\W_EX010_BTLF_R.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
 - name: obj\P_EX110.mdlx
   method: copy
   platform: pc
@@ -466,7 +682,13 @@ assets:
   method: copy
   source:
   - name: remastered/itempic/item-239.imd/-0.dds
-  
+
+- name: remastered/itempic/item-043.imd/-0.dds #KingdomKey
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-043.imd/-0.dds
+
 - name: remastered/map/hb26.map/-88.dds
   platform: pc
   method: copy
