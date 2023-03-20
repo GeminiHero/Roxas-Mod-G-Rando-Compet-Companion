@@ -1,3 +1,5 @@
+- id: 17199
+  text: 'Begin with these settings? {:color #F0F00080} ROXAS COMPET OK!'
 - id: 20095
   text: Limit Form
 - id: 20096
@@ -68,7 +70,7 @@
   text: >-
     Limit Form Status.
 
-    A form specializing in Promise attacks.
+    A form specializing in Limit attacks.
 
     {:color #F0F00080}Cost: 4{:reset}
 - id: 20129
